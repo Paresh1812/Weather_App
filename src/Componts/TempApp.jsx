@@ -54,4 +54,3 @@ function TempApp() {
 
 export default TempApp;
 
-// f00100fb875d4e5630014b102cc5c421
